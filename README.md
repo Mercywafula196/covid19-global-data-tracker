@@ -19,4 +19,4 @@ It uses data from Our World in Data (OWID) and demonstrates Python data analysis
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/covid19-global-data-tracker.git
+   git clone https://github.com/MERCY-WAFULA/covid19-global-data-tracker.git
